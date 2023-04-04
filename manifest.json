@@ -1,9 +1,9 @@
 {
  "format_version": 2,
  "header": {
-   "description": "My dirt resource pack Add-On!",
-   "name": "My Resource Pack",
-   "uuid":"582bbbe9-5edb-40ed-83c6-a483dd543fe3",
+   "description": "First Resource pack for new minecraft world",
+   "name": "Sunflower",
+   "uuid":"028eb5a7-4bfe-4579-a480-8008dbaa488c",
    "version": [1, 0, 0],
    "min_engine_version": [1, 16, 0]
   },
@@ -11,7 +11,7 @@
    {
      "description": "My First Add-On!",
      "type": "resources",
-     "uuid": "31bbc7ff-4df4-41e2-9fba-90435ef4087d",
+     "uuid": "e2fc0934-613f-4941-a98b-2eb212b539ca",
      "version": [1, 0, 0]
    }
  ]
